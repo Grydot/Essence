@@ -33,7 +33,7 @@ open Essence.app
 - **Swift** - Built using modern swift and swiftUI.
 - **Keychain** - Securely stores information in the native macOS credential manager.
 - **WebKit** — Built using WebKits WKWebView to avoid a bloated resource-heavy CEF binary.
-- **Native ARM Support** - With Intel Mac support being sunsetted in the upcoming macOS 27 and the Jagex launcher still running through Rosetta 2 there was no better time to make an ARM native Jagex Launcher replacement.
+- **Native ARM Support** - With Intel Mac support being sunsetted in the upcoming macOS 28 and the Jagex launcher still running through Rosetta 2 there was no better time to make an ARM native Jagex Launcher replacement.
 
 ## Multi-account
 
@@ -64,6 +64,7 @@ Essence is an independent, unofficial tool built by @Grydot.
 - **RuneLite** - The client Essence launches.
 - **Jagex** - The Jagex Account.
 - **Apple** - Built with SwiftUI, AppKit, WebKit, Security and CryptoKit.
+- **Claude** - Streamlining OAuth flow for webkit and Swift builds.
 
 ## Disclaimer
 
